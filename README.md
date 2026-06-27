@@ -46,40 +46,28 @@ I build systems that save time, reduce manual work, and improve business workflo
 
 ## 🧠 Core Skills
 
-### 🔴 AI Engineering
-
-* LLM integrations
-* RAG systems
-* AI workflow tools
-* Automation agents
-* Prompt systems
-* Business-focused AI features
-
-### 🔵 Full-Stack Development
-
-* SaaS platforms
-* Admin dashboards
-* APIs and backend systems
-* Database design
-* Authentication flows
-* Production-ready web applications
-
-### 🟢 Automation Systems
-
-* Workflow automation
-* API integrations
-* Data pipelines
-* Reporting systems
-* Trading bots
-* Internal business tools
-
-### 🔴 Security and Developer Tools
-
-* Domain intelligence tools
-* Passive scanning utilities
-* Technical reporting tools
-* Audit helpers
-* Developer productivity tools
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔴 AI Engineering</h3>
+      <p>LLM integrations, RAG systems, AI workflow tools, automation agents, prompt systems, and business-focused AI features.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔵 Full-Stack Development</h3>
+      <p>SaaS platforms, admin dashboards, APIs, backend systems, database design, authentication flows, and production-ready web applications.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟢 Automation Systems</h3>
+      <p>Workflow automation, API integrations, data pipelines, reporting systems, trading bots, and internal business tools.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔴 Security & Developer Tools</h3>
+      <p>Domain intelligence tools, passive scanning utilities, technical reporting tools, audit helpers, and developer productivity tools.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
